@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>true</is_extendable>
+        <label>Conference Room</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snpi_conf_room_conference_room</name>
+        <number_ref display_value="ROOM">69d9bd0ee19725107f449675ff499aab</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>rochelle.kanuho</sys_created_by>
+        <sys_created_on>2023-06-08 22:53:55</sys_created_on>
+        <sys_id>ecf59af1e11be1107f449675ff499a5e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Conference Room</sys_name>
+        <sys_package display_value="Conference Room" source="x_snpi_conf_room">a8331631e11be1107f449675ff499a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room">a8331631e11be1107f449675ff499a05</sys_scope>
+        <sys_update_name>sys_db_object_ecf59af1e11be1107f449675ff499a5e</sys_update_name>
+        <sys_updated_by>rochelle.kanuho</sys_updated_by>
+        <sys_updated_on>2023-06-09 15:29:35</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
