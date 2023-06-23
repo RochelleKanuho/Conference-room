@@ -47,7 +47,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>rochelle.kanuho</sys_created_by>
         <sys_created_on>2023-06-08 22:53:56</sys_created_on>
-        <sys_id>7cf59af1e11be1107f449675ff499aa1</sys_id>
         <sys_name>Capacity</sys_name>
         <sys_package display_value="Conference Room" source="x_snpi_conf_room">a8331631e11be1107f449675ff499a05</sys_package>
         <sys_policy/>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_dashboards">
+    <pa_dashboards action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <breakdown_source/>
+        <color/>
+        <disable_multiple_element>false</disable_multiple_element>
+        <group/>
+        <groups/>
+        <is_breakdown>false</is_breakdown>
+        <managed_breakdown/>
+        <managed_publisher/>
+        <name>Platform Implementation</name>
+        <no_tabs>false</no_tabs>
+        <order/>
+        <owner display_value="Rochelle Kanuho">e4e1ff09e15f21107f449675ff499a94</owner>
+        <restrict_to_roles>scan_user</restrict_to_roles>
+        <role_override>true</role_override>
+        <roles/>
+        <should_migrate_permissions>false</should_migrate_permissions>
+        <sys_class_name>pa_dashboards</sys_class_name>
+        <sys_created_by>rochelle.kanuho</sys_created_by>
+        <sys_created_on>2023-06-20 17:14:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d2b3ee5e1a3a1507f449675ff499ab6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Platform Implementation</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Conference Room" source="x_snpi_conf_room">a8331631e11be1107f449675ff499a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Conference Room">a8331631e11be1107f449675ff499a05</sys_scope>
+        <sys_update_name>pa_dashboards_9d2b3ee5e1a3a1507f449675ff499ab6</sys_update_name>
+        <sys_updated_by>rochelle.kanuho</sys_updated_by>
+        <sys_updated_on>2023-06-20 17:14:34</sys_updated_on>
+        <users/>
+        <visible_to>2</visible_to>
+    </pa_dashboards>
+</record_update>
