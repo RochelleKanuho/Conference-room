@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snpi_conf_room_conference_room" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>room_number</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>8f3ed27de11be1107f449675ff499ad2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requester</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>c73ed27de11be1107f449675ff499ad3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>on_behalf</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>cb3ed27de11be1107f449675ff499ad3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start_time</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>cf3ed27de11be1107f449675ff499ad3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_time</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>c33ed27de11be1107f449675ff499ad4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>amenities</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>c73ed27de11be1107f449675ff499ad4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>capacity</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>cb3ed27de11be1107f449675ff499ad4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>subject</element>
+            <list_id display_value="x_snpi_conf_room_conference_room" element="NULL" name="x_snpi_conf_room_conference_room" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">873ed27de11be1107f449675ff499ad1</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_id>cf3ed27de11be1107f449675ff499ad4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snpi_conf_room_conference_room</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 23:30:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>873ed27de11be1107f449675ff499ad1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snpi_conf_room_conference_room</sys_name>
+            <sys_package display_value="Conference Room" source="x_snpi_conf_room">a8331631e11be1107f449675ff499a05</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Room">a8331631e11be1107f449675ff499a05</sys_scope>
+            <sys_update_name>sys_ui_list_x_snpi_conf_room_conference_room_null</sys_update_name>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 23:30:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

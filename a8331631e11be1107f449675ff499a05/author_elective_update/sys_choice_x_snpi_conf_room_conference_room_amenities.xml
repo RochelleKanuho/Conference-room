@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="amenities" table="x_snpi_conf_room_conference_room" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>amenities</element>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>amenities</sys_name>
+            <sys_package display_value="Conference Room" source="x_snpi_conf_room">a8331631e11be1107f449675ff499a05</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Room">a8331631e11be1107f449675ff499a05</sys_scope>
+            <sys_update_name>sys_choice_x_snpi_conf_room_conference_room_amenities</sys_update_name>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>amenities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All</label>
+            <language>en</language>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+            <value>all</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>amenities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conference video</label>
+            <language>en</language>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+            <value>conference_video</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>amenities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Phone</label>
+            <language>en</language>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+            <value>phone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>amenities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Projector</label>
+            <language>en</language>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+            <value>projector</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>amenities</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tv</label>
+            <language>en</language>
+            <name>x_snpi_conf_room_conference_room</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>rochelle.kanuho</sys_created_by>
+            <sys_created_on>2023-06-08 22:53:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>rochelle.kanuho</sys_updated_by>
+            <sys_updated_on>2023-06-08 22:53:58</sys_updated_on>
+            <value>tv</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

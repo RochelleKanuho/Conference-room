@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ecf59af1e11be1107f449675ff499a5e" label="Conference Room" max_length="40" name="x_snpi_conf_room_conference_room" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Amenities" mandatory="true" max_length="40" name="amenities" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="All" value="all"/>
+                <element inactive_on_update="false" label="Conference video" value="conference_video"/>
+                <element inactive_on_update="false" label="Phone" value="phone"/>
+                <element inactive_on_update="false" label="Projector" value="projector"/>
+                <element inactive_on_update="false" label="Tv" value="tv"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Capacity" mandatory="true" max_length="40" name="capacity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="4 People" sequence="1" value="4_people"/>
+                <element inactive_on_update="false" label="8 People" sequence="2" value="8_people"/>
+                <element inactive_on_update="false" label="12 People" sequence="3" value="12_people"/>
+                <element inactive_on_update="false" label="16 People" sequence="4" value="16_people"/>
+                <element inactive_on_update="false" label="More than 16 People" sequence="5" value="More_than_16_people"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="End time" mandatory="true" max_length="40" name="end_time" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="encode_utf8=false" label="On behalf" mandatory="true" max_length="32" name="on_behalf" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserID()" dynamic_default_value="2fd8e97bef3221002841f7f775c0fbc1" label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" reference_qual="sys_created_by=javascript:gs.getUserID()^EQ" type="reference" use_dependent_field="true" use_dynamic_default="true" use_reference_qualifier="advanced"/>
+        <element attributes="edge_encryption_enabled=true" label="Room Number" mandatory="true" max_length="40" name="room_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start time" mandatory="true" max_length="40" name="start_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="4000" name="subject" type="journal"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="on_behalf"/>
+        </index>
+        <index name="index2">
+            <element name="requester"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
